@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/xachin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://xachin.com
+  * I am xachin (https://keybase.io/xachin) on keybase.
+  * I have a public key ASC2v7Z_DKINPTTR_woldnCqe5AFbFg7D8JooyF1aktxuwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b6bfb67f0ca20d3d34d1ff0a257670aa7b90056c583b0fc268a321756a4b71bb0a",
+      "host": "keybase.io",
+      "kid": "0120b6bfb67f0ca20d3d34d1ff0a257670aa7b90056c583b0fc268a321756a4b71bb0a",
+      "uid": "082a722885c92d7126b355092f257d19",
+      "username": "xachin"
+    },
+    "merkle_root": {
+      "ctime": 1505825902,
+      "hash": "ed83c089ee39997a224e1a0257666fef107c721e8dec16502b9fe804b4aedc08ac21e5046c9776ef62ff236a57fc663a8250d6d95584cb3bce48bc4d73e0bd73",
+      "hash_meta": "f212bcc81f0ff23cd85a440ac25dcf7ba0607e8bb45f612a72c6d4f4f509f899",
+      "seqno": 1413037
+    },
+    "service": {
+      "hostname": "xachin.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.30"
+  },
+  "ctime": 1505825911,
+  "expire_in": 504576000,
+  "prev": "60a886a2e07e43288fb5b45126e380cb712d3cc321e847413036a81d00ea6901",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgtr+2fwyiDT000f8KJXZwqnuQBWxYOw/CaKMhdWpLcbsKp3BheWxvYWTFAz97ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYjZiZmI2N2YwY2EyMGQzZDM0ZDFmZjBhMjU3NjcwYWE3YjkwMDU2YzU4M2IwZmMyNjhhMzIxNzU2YTRiNzFiYjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjZiZmI2N2YwY2EyMGQzZDM0ZDFmZjBhMjU3NjcwYWE3YjkwMDU2YzU4M2IwZmMyNjhhMzIxNzU2YTRiNzFiYjBhIiwidWlkIjoiMDgyYTcyMjg4NWM5MmQ3MTI2YjM1NTA5MmYyNTdkMTkiLCJ1c2VybmFtZSI6InhhY2hpbiJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwNTgyNTkwMiwiaGFzaCI6ImVkODNjMDg5ZWUzOTk5N2EyMjRlMWEwMjU3NjY2ZmVmMTA3YzcyMWU4ZGVjMTY1MDJiOWZlODA0YjRhZWRjMDhhYzIxZTUwNDZjOTc3NmVmNjJmZjIzNmE1N2ZjNjYzYTgyNTBkNmQ5NTU4NGNiM2JjZTQ4YmM0ZDczZTBiZDczIiwiaGFzaF9tZXRhIjoiZjIxMmJjYzgxZjBmZjIzY2Q4NWE0NDBhYzI1ZGNmN2JhMDYwN2U4YmI0NWY2MTJhNzJjNmQ0ZjRmNTA5Zjg5OSIsInNlcW5vIjoxNDEzMDM3fSwic2VydmljZSI6eyJob3N0bmFtZSI6InhhY2hpbi5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMwIn0sImN0aW1lIjoxNTA1ODI1OTExLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjYwYTg4NmEyZTA3ZTQzMjg4ZmI1YjQ1MTI2ZTM4MGNiNzEyZDNjYzMyMWU4NDc0MTMwMzZhODFkMDBlYTY5MDEiLCJzZXFubyI6NywidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDamv/GuNjgi2MfGPaQ6T5lD0fLcxl+2np5JATnKzmCl/k6tkYAoyrJ6WkSoWtwn5Jmtexz5DqjHaHpDm0SmzsBqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgQIZJGSHnOjpqCLwLoDuB8hKnGPxutFTqbvk9R0pYljqjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/xachin
+
+==================================================================
